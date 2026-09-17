@@ -1,0 +1,982 @@
+[
+  {
+    "use_id": "theocIdylls",
+    "line_number": 41,
+    "raw_text": "μεθ’ ),",
+    "text_clean": "μεθ’ ",
+    "text_clean_repr": "'μεθ’ '"
+  },
+  {
+    "use_id": "qsmyrnaeus3",
+    "line_number": 253,
+    "raw_text": "δείλʼ ,",
+    "text_clean": "δείλʼ ",
+    "text_clean_repr": "'δείλʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus3",
+    "line_number": 275,
+    "raw_text": "ναντʼ ,",
+    "text_clean": "ναντʼ ",
+    "text_clean_repr": "'ναντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus3",
+    "line_number": 277,
+    "raw_text": "νοντʼ ·",
+    "text_clean": "νοντʼ ",
+    "text_clean_repr": "'νοντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus3",
+    "line_number": 312,
+    "raw_text": "νεθʼ ,",
+    "text_clean": "νεθʼ ",
+    "text_clean_repr": "'νεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus14",
+    "line_number": 71,
+    "raw_text": "ἄρʼ ,",
+    "text_clean": "ἄρʼ ",
+    "text_clean_repr": "'ἄρʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus14",
+    "line_number": 148,
+    "raw_text": "σανθʼ ,",
+    "text_clean": "σανθʼ ",
+    "text_clean_repr": "'σανθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus14",
+    "line_number": 166,
+    "raw_text": "νησʼ ,",
+    "text_clean": "νησʼ ",
+    "text_clean_repr": "'νησʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus14",
+    "line_number": 198,
+    "raw_text": "ξηνθʼ ·",
+    "text_clean": "ξηνθʼ ",
+    "text_clean_repr": "'ξηνθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus14",
+    "line_number": 211,
+    "raw_text": "νηνθʼ ,",
+    "text_clean": "νηνθʼ ",
+    "text_clean_repr": "'νηνθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus14",
+    "line_number": 349,
+    "raw_text": "νετʼ ·",
+    "text_clean": "νετʼ ",
+    "text_clean_repr": "'νετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus14",
+    "line_number": 355,
+    "raw_text": "λονθʼ ,",
+    "text_clean": "λονθʼ ",
+    "text_clean_repr": "'λονθʼ '"
+  },
+  {
+    "use_id": "HHAphrodite",
+    "line_number": 180,
+    "raw_text": "φάθ’ ·",
+    "text_clean": "φάθ’ ",
+    "text_clean_repr": "'φάθ’ '"
+  },
+  {
+    "use_id": "HHAphrodite",
+    "line_number": 189,
+    "raw_text": "αιρ’ ·",
+    "text_clean": "αιρ’ ",
+    "text_clean_repr": "'αιρ’ '"
+  },
+  {
+    "use_id": "qsmyrnaeus2",
+    "line_number": 161,
+    "raw_text": "φάθʼ ·",
+    "text_clean": "φάθʼ ",
+    "text_clean_repr": "'φάθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus2",
+    "line_number": 275,
+    "raw_text": "μεθʼ ,",
+    "text_clean": "μεθʼ ",
+    "text_clean_repr": "'μεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus2",
+    "line_number": 361,
+    "raw_text": "σεσθʼ ·",
+    "text_clean": "σεσθʼ ",
+    "text_clean_repr": "'σεσθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus2",
+    "line_number": 567,
+    "raw_text": "νεθʼ .",
+    "text_clean": "νεθʼ ",
+    "text_clean_repr": "'νεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus5",
+    "line_number": 611,
+    "raw_text": "σασθʼ ,",
+    "text_clean": "σασθʼ ",
+    "text_clean_repr": "'σασθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus5",
+    "line_number": 633,
+    "raw_text": "αντʼ ·",
+    "text_clean": "αντʼ ",
+    "text_clean_repr": "'αντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus5",
+    "line_number": 652,
+    "raw_text": "νυντʼ ,",
+    "text_clean": "νυντʼ ",
+    "text_clean_repr": "'νυντʼ '"
+  },
+  {
+    "use_id": "HHermes",
+    "line_number": 38,
+    "raw_text": "ουσ’ ·",
+    "text_clean": "ουσ’ ",
+    "text_clean_repr": "'ουσ’ '"
+  },
+  {
+    "use_id": "HHermes",
+    "line_number": 132,
+    "raw_text": "δεῖ’ ·",
+    "text_clean": "δεῖ’ ",
+    "text_clean_repr": "'δεῖ’ '"
+  },
+  {
+    "use_id": "HHermes",
+    "line_number": 237,
+    "raw_text": "εντ’ ·",
+    "text_clean": "εντ’ ",
+    "text_clean_repr": "'εντ’ '"
+  },
+  {
+    "use_id": "HHermes",
+    "line_number": 304,
+    "raw_text": "φάθ’ ·",
+    "text_clean": "φάθ’ ",
+    "text_clean_repr": "'φάθ’ '"
+  },
+  {
+    "use_id": "HHermes",
+    "line_number": 496,
+    "raw_text": "ρεξ’ ·",
+    "text_clean": "ρεξ’ ",
+    "text_clean_repr": "'ρεξ’ '"
+  },
+  {
+    "use_id": "HHermes",
+    "line_number": 568,
+    "raw_text": "φατ’ ·",
+    "text_clean": "φατ’ ",
+    "text_clean_repr": "'φατ’ '"
+  },
+  {
+    "use_id": "qsmyrnaeus13",
+    "line_number": 31,
+    "raw_text": "μάλʼ ,",
+    "text_clean": "μάλʼ ",
+    "text_clean_repr": "'μάλʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus13",
+    "line_number": 415,
+    "raw_text": "φάθʼ ·",
+    "text_clean": "φάθʼ ",
+    "text_clean_repr": "'φάθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus13",
+    "line_number": 528,
+    "raw_text": "τίκʼ ,",
+    "text_clean": "τίκʼ ",
+    "text_clean_repr": "'τίκʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus9",
+    "line_number": 156,
+    "raw_text": "ληρʼ ,",
+    "text_clean": "ληρʼ ",
+    "text_clean_repr": "'ληρʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus9",
+    "line_number": 321,
+    "raw_text": "φάθʼ ·",
+    "text_clean": "φάθʼ ",
+    "text_clean_repr": "'φάθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus9",
+    "line_number": 409,
+    "raw_text": "ροντʼ ·",
+    "text_clean": "ροντʼ ",
+    "text_clean_repr": "'ροντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus9",
+    "line_number": 491,
+    "raw_text": "φίλʼ ,",
+    "text_clean": "φίλʼ ",
+    "text_clean_repr": "'φίλʼ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 164,
+    "raw_text": "γεσθ’ ·",
+    "text_clean": "γεσθ’ ",
+    "text_clean_repr": "'γεσθ’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 201,
+    "raw_text": "ζουσ’ ·",
+    "text_clean": "ζουσ’ ",
+    "text_clean_repr": "'ζουσ’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 237,
+    "raw_text": "νεθ’ ·",
+    "text_clean": "νεθ’ ",
+    "text_clean_repr": "'νεθ’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 285,
+    "raw_text": "χεῖ’ ·",
+    "text_clean": "χεῖ’ ",
+    "text_clean_repr": "'χεῖ’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 362,
+    "raw_text": "ουσ’ ·",
+    "text_clean": "ουσ’ ",
+    "text_clean_repr": "'ουσ’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 402,
+    "raw_text": "φῖν’ ·",
+    "text_clean": "φῖν’ ",
+    "text_clean_repr": "'φῖν’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 421,
+    "raw_text": "θῡν’ ·",
+    "text_clean": "θυν’ ",
+    "text_clean_repr": "'θυν’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 439,
+    "raw_text": "μέν’ ·",
+    "text_clean": "μέν’ ",
+    "text_clean_repr": "'μέν’ '"
+  },
+  {
+    "use_id": "HHApollo",
+    "line_number": 502,
+    "raw_text": "φαθ’ ·",
+    "text_clean": "φαθ’ ",
+    "text_clean_repr": "'φαθ’ '"
+  },
+  {
+    "use_id": "theognis",
+    "line_number": 1300,
+    "raw_text": "ζημ’ .",
+    "text_clean": "ζημ’ ",
+    "text_clean_repr": "'ζημ’ '"
+  },
+  {
+    "use_id": "qsmyrnaeus8",
+    "line_number": 63,
+    "raw_text": "νετʼ ,",
+    "text_clean": "νετʼ ",
+    "text_clean_repr": "'νετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus8",
+    "line_number": 75,
+    "raw_text": "ρετʼ ,",
+    "text_clean": "ρετʼ ",
+    "text_clean_repr": "'ρετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus8",
+    "line_number": 211,
+    "raw_text": "πυλʼ ,",
+    "text_clean": "πυλʼ ",
+    "text_clean_repr": "'πυλʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus8",
+    "line_number": 292,
+    "raw_text": "ναθʼ ,",
+    "text_clean": "ναθʼ ",
+    "text_clean_repr": "'ναθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus8",
+    "line_number": 495,
+    "raw_text": "λετʼ ,",
+    "text_clean": "λετʼ ",
+    "text_clean_repr": "'λετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 6,
+    "raw_text": "μαθʼ ,",
+    "text_clean": "μαθʼ ",
+    "text_clean_repr": "'μαθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 25,
+    "raw_text": "φίλʼ ,",
+    "text_clean": "φίλʼ ",
+    "text_clean_repr": "'φίλʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 209,
+    "raw_text": "σεσθʼ ·",
+    "text_clean": "σεσθʼ ",
+    "text_clean_repr": "'σεσθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 234,
+    "raw_text": "ἄγʼ ,",
+    "text_clean": "ἄγʼ ",
+    "text_clean_repr": "'ἄγʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 265,
+    "raw_text": "νετʼ ,",
+    "text_clean": "νετʼ ",
+    "text_clean_repr": "'νετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 307,
+    "raw_text": "πεθ.ʼ ,",
+    "text_clean": "πεθʼ ",
+    "text_clean_repr": "'πεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 355,
+    "raw_text": "κονθʼ ,",
+    "text_clean": "κονθʼ ",
+    "text_clean_repr": "'κονθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 439,
+    "raw_text": "πετʼ ·",
+    "text_clean": "πετʼ ",
+    "text_clean_repr": "'πετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 446,
+    "raw_text": "θοντʼ ,",
+    "text_clean": "θοντʼ ",
+    "text_clean_repr": "'θοντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 481,
+    "raw_text": "νεθʼ ,",
+    "text_clean": "νεθʼ ",
+    "text_clean_repr": "'νεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 546,
+    "raw_text": "θεσθʼ ,",
+    "text_clean": "θεσθʼ ",
+    "text_clean_repr": "'θεσθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus12",
+    "line_number": 570,
+    "raw_text": "ωσʼ ·",
+    "text_clean": "ωσʼ ",
+    "text_clean_repr": "'ωσʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 43,
+    "raw_text": "φατʼ ·",
+    "text_clean": "φατʼ ",
+    "text_clean_repr": "'φατʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 131,
+    "raw_text": "πεθʼ ·",
+    "text_clean": "πεθʼ ",
+    "text_clean_repr": "'πεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 146,
+    "raw_text": "πονθʼ ·",
+    "text_clean": "πονθʼ ",
+    "text_clean_repr": "'πονθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 266,
+    "raw_text": "χεσθʼ ,",
+    "text_clean": "χεσθʼ ",
+    "text_clean_repr": "'χεσθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 285,
+    "raw_text": "νυτʼ ,",
+    "text_clean": "νυτʼ ",
+    "text_clean_repr": "'νυτʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 420,
+    "raw_text": "κετʼ ,",
+    "text_clean": "κετʼ ",
+    "text_clean_repr": "'κετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 507,
+    "raw_text": "εντʼ ·",
+    "text_clean": "εντʼ ",
+    "text_clean_repr": "'εντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus4",
+    "line_number": 548,
+    "raw_text": "ζονθʼ ·",
+    "text_clean": "ζονθʼ ",
+    "text_clean_repr": "'ζονθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus11",
+    "line_number": 9,
+    "raw_text": "φῶντʼ ,",
+    "text_clean": "φῶντʼ ",
+    "text_clean_repr": "'φῶντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus11",
+    "line_number": 228,
+    "raw_text": "ζοντʼ ,",
+    "text_clean": "ζοντʼ ",
+    "text_clean_repr": "'ζοντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus11",
+    "line_number": 228,
+    "raw_text": "μαθʼ ,",
+    "text_clean": "μαθʼ ",
+    "text_clean_repr": "'μαθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus11",
+    "line_number": 457,
+    "raw_text": "νετʼ ,",
+    "text_clean": "νετʼ ",
+    "text_clean_repr": "'νετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 50,
+    "raw_text": "τέρʼ ·",
+    "text_clean": "τέρʼ ",
+    "text_clean_repr": "'τέρʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 56,
+    "raw_text": "φάθʼ ·",
+    "text_clean": "φάθʼ ",
+    "text_clean_repr": "'φάθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 153,
+    "raw_text": "σανθʼ ,",
+    "text_clean": "σανθʼ ",
+    "text_clean_repr": "'σανθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 509,
+    "raw_text": "ζοντʼ ,",
+    "text_clean": "ζοντʼ ",
+    "text_clean_repr": "'ζοντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 515,
+    "raw_text": "σατʼ ,",
+    "text_clean": "σατʼ ",
+    "text_clean_repr": "'σατʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 634,
+    "raw_text": "δʼ ἄρʼ ,",
+    "text_clean": "δʼ ἄρʼ ",
+    "text_clean_repr": "'δʼ ἄρʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 704,
+    "raw_text": "σεσθʼ ,",
+    "text_clean": "σεσθʼ ",
+    "text_clean_repr": "'σεσθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus7",
+    "line_number": 711,
+    "raw_text": "κεινθʼ ·",
+    "text_clean": "κεινθʼ ",
+    "text_clean_repr": "'κεινθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 30,
+    "raw_text": "μεθʼ ,",
+    "text_clean": "μεθʼ ",
+    "text_clean_repr": "'μεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 50,
+    "raw_text": "γεθʼ ,",
+    "text_clean": "γεθʼ ",
+    "text_clean_repr": "'γεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 324,
+    "raw_text": "πονθʼ ,",
+    "text_clean": "πονθʼ ",
+    "text_clean_repr": "'πονθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 396,
+    "raw_text": "ἀλλʼ ,",
+    "text_clean": "ἀλλʼ ",
+    "text_clean_repr": "'ἀλλʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 414,
+    "raw_text": "δείλʼ ,",
+    "text_clean": "δείλʼ ",
+    "text_clean_repr": "'δείλʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 415,
+    "raw_text": "πλετʼ ,",
+    "text_clean": "πλετʼ ",
+    "text_clean_repr": "'πλετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 426,
+    "raw_text": "πυλʼ ,",
+    "text_clean": "πυλʼ ",
+    "text_clean_repr": "'πυλʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 443,
+    "raw_text": "συσθʼ ,",
+    "text_clean": "συσθʼ ",
+    "text_clean_repr": "'συσθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 452,
+    "raw_text": "νετʼ ·",
+    "text_clean": "νετʼ ",
+    "text_clean_repr": "'νετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 532,
+    "raw_text": "φῶντʼ ,",
+    "text_clean": "φῶντʼ ",
+    "text_clean_repr": "'φῶντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus6",
+    "line_number": 578,
+    "raw_text": "εντʼ ·",
+    "text_clean": "εντʼ ",
+    "text_clean_repr": "'εντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 11,
+    "raw_text": "μεθʼ ,",
+    "text_clean": "μεθʼ ",
+    "text_clean_repr": "'μεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 157,
+    "raw_text": "ρονθʼ ·",
+    "text_clean": "ρονθʼ ",
+    "text_clean_repr": "'ρονθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 159,
+    "raw_text": "ναντʼ ,",
+    "text_clean": "ναντʼ ",
+    "text_clean_repr": "'ναντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 297,
+    "raw_text": "κεσʼ ,",
+    "text_clean": "κεσʼ ",
+    "text_clean_repr": "'κεσʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 322,
+    "raw_text": "νεκʼ ,",
+    "text_clean": "νεκʼ ",
+    "text_clean_repr": "'νεκʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 406,
+    "raw_text": "φατʼ ,",
+    "text_clean": "φατʼ ",
+    "text_clean_repr": "'φατʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 419,
+    "raw_text": "ονθʼ ,",
+    "text_clean": "ονθʼ ",
+    "text_clean_repr": "'ονθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus10",
+    "line_number": 448,
+    "raw_text": "νατʼ ·",
+    "text_clean": "νατʼ ",
+    "text_clean_repr": "'νατʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 32,
+    "raw_text": "φῶντʼ ,",
+    "text_clean": "φῶντʼ ",
+    "text_clean_repr": "'φῶντʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 102,
+    "raw_text": "νασθʼ ,",
+    "text_clean": "νασθʼ ",
+    "text_clean_repr": "'νασθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 330,
+    "raw_text": "σεσθʼ ,",
+    "text_clean": "σεσθʼ ",
+    "text_clean_repr": "'σεσθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 356,
+    "raw_text": "νεθʼ ,",
+    "text_clean": "νεθʼ ",
+    "text_clean_repr": "'νεθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 393,
+    "raw_text": "νασθʼ ·",
+    "text_clean": "νασθʼ ",
+    "text_clean_repr": "'νασθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 395,
+    "raw_text": "νουσʼ ·",
+    "text_clean": "νουσʼ ",
+    "text_clean_repr": "'νουσʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 427,
+    "raw_text": "λυνθʼ ,",
+    "text_clean": "λυνθʼ ",
+    "text_clean_repr": "'λυνθʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 485,
+    "raw_text": "πλετʼ ,",
+    "text_clean": "πλετʼ ",
+    "text_clean_repr": "'πλετʼ '"
+  },
+  {
+    "use_id": "qsmyrnaeus1",
+    "line_number": 711,
+    "raw_text": "σαθʼ ,",
+    "text_clean": "σαθʼ ",
+    "text_clean_repr": "'σαθʼ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 24,
+    "raw_text": "δοντ’ ·",
+    "text_clean": "δοντ’ ",
+    "text_clean_repr": "'δοντ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 37,
+    "raw_text": "μεθ’ ,",
+    "text_clean": "μεθ’ ",
+    "text_clean_repr": "'μεθ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 59,
+    "raw_text": "φατ’ ,",
+    "text_clean": "φατ’ ",
+    "text_clean_repr": "'φατ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 69,
+    "raw_text": "φαθ’ ,",
+    "text_clean": "φαθ’ ",
+    "text_clean_repr": "'φαθ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 89,
+    "raw_text": "εἶχ’ ,",
+    "text_clean": "εἶχ’ ",
+    "text_clean_repr": "'εἶχ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 95,
+    "raw_text": "δασ’ ,",
+    "text_clean": "δασ’ ",
+    "text_clean_repr": "'δασ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 144,
+    "raw_text": "ησ’ ,",
+    "text_clean": "ησ’ ",
+    "text_clean_repr": "'ησ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 268,
+    "raw_text": "τάδ’ ,",
+    "text_clean": "τάδ’ ",
+    "text_clean_repr": "'τάδ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 268,
+    "raw_text": "λῃσ’ ,",
+    "text_clean": "λῃσ’ ",
+    "text_clean_repr": "'λῃσ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 348,
+    "raw_text": "λοιτ’ ,",
+    "text_clean": "λοιτ’ ",
+    "text_clean_repr": "'λοιτ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 456,
+    "raw_text": "οἶδ’ ·",
+    "text_clean": "οἶδ’ ",
+    "text_clean_repr": "'οἶδ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 512,
+    "raw_text": "σουσ’ ,",
+    "text_clean": "σουσ’ ",
+    "text_clean_repr": "'σουσ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 683,
+    "raw_text": "νημ’ ,",
+    "text_clean": "νημ’ ",
+    "text_clean_repr": "'νημ’ '"
+  },
+  {
+    "use_id": "worksanddays",
+    "line_number": 762,
+    "raw_text": "μάλ’ ,",
+    "text_clean": "μάλ’ ",
+    "text_clean_repr": "'μάλ’ '"
+  },
+  {
+    "use_id": "aratus",
+    "line_number": 284,
+    "raw_text": "νυσθ’ ·",
+    "text_clean": "νυσθ’ ",
+    "text_clean_repr": "'νυσθ’ '"
+  },
+  {
+    "use_id": "aratus",
+    "line_number": 412,
+    "raw_text": "ματ’ ,",
+    "text_clean": "ματ’ ",
+    "text_clean_repr": "'ματ’ '"
+  },
+  {
+    "use_id": "aratus",
+    "line_number": 866,
+    "raw_text": "οὐδ’ ,",
+    "text_clean": "οὐδ’ ",
+    "text_clean_repr": "'οὐδ’ '"
+  },
+  {
+    "use_id": "aratus",
+    "line_number": 1033,
+    "raw_text": "μηδ’ ,",
+    "text_clean": "μηδ’ ",
+    "text_clean_repr": "'μηδ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 120,
+    "raw_text": "ρετ’ ·",
+    "text_clean": "ρετ’ ",
+    "text_clean_repr": "'ρετ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 169,
+    "raw_text": "φαθ’ ·",
+    "text_clean": "φαθ’ ",
+    "text_clean_repr": "'φαθ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 181,
+    "raw_text": "γεῦνθ’ ·",
+    "text_clean": "γεῦνθ’ ",
+    "text_clean_repr": "'γεῦνθ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 207,
+    "raw_text": "σᾱσ’ ·",
+    "text_clean": "σασ’ ",
+    "text_clean_repr": "'σασ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 207,
+    "raw_text": "νευσ’ ·",
+    "text_clean": "νευσ’ ",
+    "text_clean_repr": "'νευσ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 287,
+    "raw_text": "και’ ·",
+    "text_clean": "και’ ",
+    "text_clean_repr": "'και’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 300,
+    "raw_text": "τελλ’ .",
+    "text_clean": "τελλ’ ",
+    "text_clean_repr": "'τελλ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 316,
+    "raw_text": "φαθ’ ·",
+    "text_clean": "φαθ’ ",
+    "text_clean_repr": "'φαθ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 448,
+    "raw_text": "φατ’ ·",
+    "text_clean": "φατ’ ",
+    "text_clean_repr": "'φατ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 470,
+    "raw_text": "φατ’ .",
+    "text_clean": "φατ’ ",
+    "text_clean_repr": "'φατ’ '"
+  },
+  {
+    "use_id": "HHDemeter",
+    "line_number": 473,
+    "raw_text": "βρῑσ’ ·",
+    "text_clean": "βρισ’ ",
+    "text_clean_repr": "'βρισ’ '"
+  },
+  {
+    "use_id": "persians",
+    "line_number": 257,
+    "raw_text": "ιʼ ·.",
+    "text_clean": "ιʼ ",
+    "text_clean_repr": "'ιʼ '"
+  },
+  {
+    "use_id": "persians",
+    "line_number": 343,
+    "raw_text": "πτάθʼ ·",
+    "text_clean": "πτάθʼ ",
+    "text_clean_repr": "'πτάθʼ '"
+  }
+]

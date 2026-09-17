@@ -1,0 +1,32 @@
+<class 'str'>
+the parsed syllble is: {'text': 'μῆ', 'data_mac': None, 'quantity': 'long', 'quantity_reason': 'lbn', 'syll_annotations': [], 'classes_raw': ['syll', 'long', 'lbn']}
+<class 'str'>
+the parsed syllble is: {'text': 'νιν', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'ἄ', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'ει', 'data_mac': None, 'quantity': 'long', 'quantity_reason': 'lbn', 'syll_annotations': [], 'classes_raw': ['syll', 'long', 'lbn']}
+<class 'str'>
+the parsed syllble is: {'text': 'δε', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'θε', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'ὰ', 'data_mac': 'ᾱ̀', 'quantity': 'long', 'quantity_reason': 'lbn', 'syll_annotations': [], 'classes_raw': ['syll', 'long', 'lbn']}
+<class 'str'>
+the parsed syllble is: {'text': 'Πη', 'data_mac': None, 'quantity': 'long', 'quantity_reason': 'lbn', 'syll_annotations': [], 'classes_raw': ['syll', 'long', 'lbn']}
+<class 'str'>
+the parsed syllble is: {'text': 'λη', 'data_mac': None, 'quantity': 'long', 'quantity_reason': 'lbn', 'syll_annotations': [], 'classes_raw': ['syll', 'long', 'lbn']}
+<class 'str'>
+the parsed syllble is: {'text': 'ϊ', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'ά', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'δεω', 'data_mac': None, 'quantity': 'long', 'quantity_reason': 'lbn', 'syll_annotations': ['hiatus', 'synizesis'], 'classes_raw': ['syll', 'long', 'hiatus', 'synizesis', 'lbn']}
+<class 'str'>
+the parsed syllble is: {'text': 'Ἀ', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'χι', 'data_mac': None, 'quantity': 'short', 'quantity_reason': None, 'syll_annotations': [], 'classes_raw': ['syll', 'short']}
+<class 'str'>
+the parsed syllble is: {'text': 'λῆ', 'data_mac': None, 'quantity': 'long', 'quantity_reason': 'lbn', 'syll_annotations': [], 'classes_raw': ['syll', 'long', 'lbn']}
+<class 'str'>
+the parsed syllble is: {'text': 'ος', 'data_mac': None, 'quantity': 'long', 'quantity_reason': 'bil', 'syll_annotations': [], 'classes_raw': ['syll', 'long', 'bil']}

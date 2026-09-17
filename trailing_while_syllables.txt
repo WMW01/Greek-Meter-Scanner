@@ -1,0 +1,190 @@
+the old text is: μεθ’  ----- the new text is: μεθ’
+scraped_texts/theocritus_idylls.json: fixed 1 syllable(s) across 1 line(s)
+the old text is: δείλʼ  ----- the new text is: δείλʼ
+the old text is: ναντʼ  ----- the new text is: ναντʼ
+the old text is: νοντʼ  ----- the new text is: νοντʼ
+the old text is: νεθʼ  ----- the new text is: νεθʼ
+the old text is: δʼ  ὅτʼ ----- the new text is: δʼ ὅτʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_03.json: fixed 5 syllable(s) across 5 line(s)
+the old text is: ἄρʼ  ----- the new text is: ἄρʼ
+the old text is: σανθʼ  ----- the new text is: σανθʼ
+the old text is: νησʼ  ----- the new text is: νησʼ
+the old text is: ξηνθʼ  ----- the new text is: ξηνθʼ
+the old text is: νηνθʼ  ----- the new text is: νηνθʼ
+the old text is: δʼ  εἴ ----- the new text is: δʼ εἴ
+the old text is: δʼ  ὁπ ----- the new text is: δʼ ὁπ
+the old text is: νετʼ  ----- the new text is: νετʼ
+the old text is: λονθʼ  ----- the new text is: λονθʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_14.json: fixed 9 syllable(s) across 9 line(s)
+the old text is: φάθ’  ----- the new text is: φάθ’
+the old text is: αιρ’  ----- the new text is: αιρ’
+scraped_texts/homeric_hymn_to_aphrodite.json: fixed 2 syllable(s) across 2 line(s)
+the old text is: φάθʼ  ----- the new text is: φάθʼ
+the old text is: μεθʼ  ----- the new text is: μεθʼ
+the old text is: σεσθʼ  ----- the new text is: σεσθʼ
+the old text is: νεθʼ  ----- the new text is: νεθʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_02.json: fixed 4 syllable(s) across 4 line(s)
+the old text is: δʼ  ὡς ----- the new text is: δʼ ὡς
+the old text is: θʼ  ὁπ ----- the new text is: θʼ ὁπ
+the old text is: σασθʼ  ----- the new text is: σασθʼ
+the old text is: αντʼ  ----- the new text is: αντʼ
+the old text is: νυντʼ  ----- the new text is: νυντʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_05.json: fixed 5 syllable(s) across 5 line(s)
+the old text is: ουσ’  ----- the new text is: ουσ’
+the old text is: δεῖ’  ----- the new text is: δεῖ’
+the old text is: εντ’  ----- the new text is: εντ’
+the old text is: φάθ’  ----- the new text is: φάθ’
+the old text is: ρεξ’  ----- the new text is: ρεξ’
+the old text is: φατ’  ----- the new text is: φατ’
+scraped_texts/homeric_hymn_to_ermes.json: fixed 6 syllable(s) across 6 line(s)
+the old text is: μάλʼ  ----- the new text is: μάλʼ
+the old text is: δʼ  ὡς ----- the new text is: δʼ ὡς
+the old text is: σʼ  ὅ ----- the new text is: σʼ ὅ
+the old text is: φάθʼ  ----- the new text is: φάθʼ
+the old text is: τίκʼ  ----- the new text is: τίκʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_13.json: fixed 5 syllable(s) across 5 line(s)
+the old text is: ληρʼ  ----- the new text is: ληρʼ
+the old text is: φάθʼ  ----- the new text is: φάθʼ
+the old text is: θʼ  ἕλ ----- the new text is: θʼ ἕλ
+the old text is: ροντʼ  ----- the new text is: ροντʼ
+the old text is: φίλʼ  ----- the new text is: φίλʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_09.json: fixed 5 syllable(s) across 5 line(s)
+the old text is: γεσθ’  ----- the new text is: γεσθ’
+the old text is: ζουσ’  ----- the new text is: ζουσ’
+the old text is: νεθ’  ----- the new text is: νεθ’
+the old text is: χεῖ’  ----- the new text is: χεῖ’
+the old text is: ουσ’  ----- the new text is: ουσ’
+the old text is: φῖν’  ----- the new text is: φῖν’
+the old text is: θυν’  ----- the new text is: θυν’
+the old text is: μέν’  ----- the new text is: μέν’
+the old text is: φαθ’  ----- the new text is: φαθ’
+scraped_texts/homeric_hymn_to_apollo.json: fixed 9 syllable(s) across 9 line(s)
+the old text is: ζημ’  ----- the new text is: ζημ’
+scraped_texts/theognis_elegies.json: fixed 1 syllable(s) across 1 line(s)
+the old text is: νετʼ  ----- the new text is: νετʼ
+the old text is: ρετʼ  ----- the new text is: ρετʼ
+the old text is: δʼ  οἳ ----- the new text is: δʼ οἳ
+the old text is: πυλʼ  ----- the new text is: πυλʼ
+the old text is: ναθʼ  ----- the new text is: ναθʼ
+the old text is: λετʼ  ----- the new text is: λετʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_08.json: fixed 6 syllable(s) across 6 line(s)
+the old text is: μαθʼ  ----- the new text is: μαθʼ
+the old text is: φίλʼ  ----- the new text is: φίλʼ
+the old text is: σεσθʼ  ----- the new text is: σεσθʼ
+the old text is: ἄγʼ  ----- the new text is: ἄγʼ
+the old text is: νετʼ  ----- the new text is: νετʼ
+the old text is: πεθʼ  ----- the new text is: πεθʼ
+the old text is: κονθʼ  ----- the new text is: κονθʼ
+the old text is: πετʼ  ----- the new text is: πετʼ
+the old text is: θοντʼ  ----- the new text is: θοντʼ
+the old text is: νεθʼ  ----- the new text is: νεθʼ
+the old text is: θεσθʼ  ----- the new text is: θεσθʼ
+the old text is: ωσʼ  ----- the new text is: ωσʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_12.json: fixed 12 syllable(s) across 12 line(s)
+the old text is: φατʼ  ----- the new text is: φατʼ
+the old text is: πεθʼ  ----- the new text is: πεθʼ
+the old text is: πονθʼ  ----- the new text is: πονθʼ
+the old text is: χεσθʼ  ----- the new text is: χεσθʼ
+the old text is: νυτʼ  ----- the new text is: νυτʼ
+the old text is: κετʼ  ----- the new text is: κετʼ
+the old text is: εντʼ  ----- the new text is: εντʼ
+the old text is: ζονθʼ  ----- the new text is: ζονθʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_04.json: fixed 8 syllable(s) across 8 line(s)
+the old text is: φῶντʼ  ----- the new text is: φῶντʼ
+the old text is: ζοντʼ  ----- the new text is: ζοντʼ
+the old text is: μαθʼ  ----- the new text is: μαθʼ
+the old text is: νετʼ  ----- the new text is: νετʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_11.json: fixed 4 syllable(s) across 3 line(s)
+the old text is: θʼ  ὃς ----- the new text is: θʼ ὃς
+the old text is: δʼ  ὡς ----- the new text is: δʼ ὡς
+the old text is: τέρʼ  ----- the new text is: τέρʼ
+the old text is: φάθʼ  ----- the new text is: φάθʼ
+the old text is: σανθʼ  ----- the new text is: σανθʼ
+the old text is: δʼ  ὡ ----- the new text is: δʼ ὡ
+the old text is: δʼ  ἥν ----- the new text is: δʼ ἥν
+the old text is: θʼ  αἳ ----- the new text is: θʼ αἳ
+the old text is: ζοντʼ  ----- the new text is: ζοντʼ
+the old text is: σατʼ  ----- the new text is: σατʼ
+the old text is: δʼ ἄρʼ  ----- the new text is: δʼ ἄρʼ
+the old text is: σεσθʼ  ----- the new text is: σεσθʼ
+the old text is: κεινθʼ  ----- the new text is: κεινθʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_07.json: fixed 13 syllable(s) across 13 line(s)
+the old text is: τ’  ἐν ----- the new text is: τ’ ἐν
+the old text is: σφ’  ἐ ----- the new text is: σφ’ ἐ
+the old text is: δ’  αὐ ----- the new text is: δ’ αὐ
+scraped_texts/callimachus_hymns.json: fixed 3 syllable(s) across 3 line(s)
+the old text is: μεθʼ  ----- the new text is: μεθʼ
+the old text is: γεθʼ  ----- the new text is: γεθʼ
+the old text is: δʼ  ὅ ----- the new text is: δʼ ὅ
+the old text is: θʼ  ἣ ----- the new text is: θʼ ἣ
+the old text is: δʼ  ὥσ ----- the new text is: δʼ ὥσ
+the old text is: πονθʼ  ----- the new text is: πονθʼ
+the old text is: ἀλλʼ  ----- the new text is: ἀλλʼ
+the old text is: δείλʼ  ----- the new text is: δείλʼ
+the old text is: πλετʼ  ----- the new text is: πλετʼ
+the old text is: πυλʼ  ----- the new text is: πυλʼ
+the old text is: δʼ  ὃς ----- the new text is: δʼ ὃς
+the old text is: συσθʼ  ----- the new text is: συσθʼ
+the old text is: νετʼ  ----- the new text is: νετʼ
+the old text is: φῶντʼ  ----- the new text is: φῶντʼ
+the old text is: εντʼ  ----- the new text is: εντʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_06.json: fixed 15 syllable(s) across 15 line(s)
+the old text is: μεθʼ  ----- the new text is: μεθʼ
+the old text is: ρονθʼ  ----- the new text is: ρονθʼ
+the old text is: ναντʼ  ----- the new text is: ναντʼ
+the old text is: κεσʼ  ----- the new text is: κεσʼ
+the old text is: νεκʼ  ----- the new text is: νεκʼ
+the old text is: φατʼ  ----- the new text is: φατʼ
+the old text is: ονθʼ  ----- the new text is: ονθʼ
+the old text is: νατʼ  ----- the new text is: νατʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_10.json: fixed 8 syllable(s) across 8 line(s)
+the old text is: γ’  ἀ ----- the new text is: γ’ ἀ
+scraped_texts/cleanthes.json: fixed 1 syllable(s) across 1 line(s)
+the old text is: φῶντʼ  ----- the new text is: φῶντʼ
+the old text is: νασθʼ  ----- the new text is: νασθʼ
+the old text is: θʼ  οὕ ----- the new text is: θʼ οὕ
+the old text is: σεσθʼ  ----- the new text is: σεσθʼ
+the old text is: νεθʼ  ----- the new text is: νεθʼ
+the old text is: νασθʼ  ----- the new text is: νασθʼ
+the old text is: νουσʼ  ----- the new text is: νουσʼ
+the old text is: λυνθʼ  ----- the new text is: λυνθʼ
+the old text is: πλετʼ  ----- the new text is: πλετʼ
+the old text is: δʼ  ὡς ----- the new text is: δʼ ὡς
+the old text is: σαθʼ  ----- the new text is: σαθʼ
+scraped_texts/quintus_smyrnaeus_posthomerica_01.json: fixed 11 syllable(s) across 11 line(s)
+the old text is: δοντ’  ----- the new text is: δοντ’
+the old text is: μεθ’  ----- the new text is: μεθ’
+the old text is: φατ’  ----- the new text is: φατ’
+the old text is: φαθ’  ----- the new text is: φαθ’
+the old text is: εἶχ’  ----- the new text is: εἶχ’
+the old text is: δασ’  ----- the new text is: δασ’
+the old text is: ησ’  ----- the new text is: ησ’
+the old text is: τάδ’  ----- the new text is: τάδ’
+the old text is: λῃσ’  ----- the new text is: λῃσ’
+the old text is: λοιτ’  ----- the new text is: λοιτ’
+the old text is: οἶδ’  ----- the new text is: οἶδ’
+the old text is: σουσ’  ----- the new text is: σουσ’
+the old text is: νημ’  ----- the new text is: νημ’
+the old text is: μάλ’  ----- the new text is: μάλ’
+scraped_texts/hesiod_works_and_days.json: fixed 14 syllable(s) across 13 line(s)
+the old text is: νυσθ’  ----- the new text is: νυσθ’
+the old text is: ματ’  ----- the new text is: ματ’
+the old text is: οὐδ’  ----- the new text is: οὐδ’
+the old text is: μηδ’  ----- the new text is: μηδ’
+scraped_texts/aratus.json: fixed 4 syllable(s) across 4 line(s)
+the old text is: ρετ’  ----- the new text is: ρετ’
+the old text is: φαθ’  ----- the new text is: φαθ’
+the old text is: γεῦνθ’  ----- the new text is: γεῦνθ’
+the old text is: σασ’  ----- the new text is: σασ’
+the old text is: νευσ’  ----- the new text is: νευσ’
+the old text is: και’  ----- the new text is: και’
+the old text is: τελλ’  ----- the new text is: τελλ’
+the old text is: φαθ’  ----- the new text is: φαθ’
+the old text is: φατ’  ----- the new text is: φατ’
+the old text is: φατ’  ----- the new text is: φατ’
+the old text is: βρισ’  ----- the new text is: βρισ’
+scraped_texts/homeric_hymn_to_demeter.json: fixed 11 syllable(s) across 10 line(s)
+the old text is: ιʼ  ----- the new text is: ιʼ
+the old text is: πτάθʼ  ----- the new text is: πτάθʼ
+scraped_texts/aeschylus_persians.json: fixed 2 syllable(s) across 2 line(s)
+{161}
